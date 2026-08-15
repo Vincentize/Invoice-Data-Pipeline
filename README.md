@@ -24,5 +24,5 @@ To run this connector locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/Invoice-Data-Pipeline.git](https://github.com/YOUR-USERNAME/Invoice-Data-Pipeline.git)
+   git clone [https://github.com/Vincentize/Invoice-Data-Pipeline.git](https://github.com/Vincentize/Invoice-Data-Pipeline.git)
    cd Invoice-Data-Pipeline
